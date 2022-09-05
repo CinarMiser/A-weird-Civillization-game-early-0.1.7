@@ -1,0 +1,26 @@
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\bin\Debug\a weird civilization.exe.config
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\bin\Debug\a weird civilization.exe
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\bin\Debug\a weird civilization.pdb
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a weird civilization.csproj.AssemblyReference.cache
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a weird civilization.csproj.SuggestedBindingRedirects.cache
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a_weird_civilization.Properties.Resources.resources
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a weird civilization.csproj.GenerateResource.cache
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a weird civilization.csproj.CoreCompileInputs.cache
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a weird civilization.exe
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a weird civilization.pdb
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a_weird_civilization.Starter.resources
+C:\Users\NİHAN_EVRENKAYA\Desktop\a weird civilization\a weird civilization\obj\Debug\a_weird_civilization.Game.resources
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\bin\Debug\a weird civilization.exe.config
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\bin\Debug\a weird civilization.exe
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\bin\Debug\a weird civilization.pdb
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a weird civilization.csproj.AssemblyReference.cache
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a weird civilization.csproj.SuggestedBindingRedirects.cache
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a_weird_civilization.Starter.resources
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a_weird_civilization.Game.resources
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a_weird_civilization.Properties.Resources.resources
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a weird civilization.csproj.GenerateResource.cache
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a weird civilization.csproj.CoreCompileInputs.cache
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a weird civilization.exe
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a weird civilization.pdb
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a_weird_civilization.Tutorial.resources
+C:\Users\NİHAN_EVRENKAYA\Desktop\çınarın dosyaları\a weird civilization\a weird civilization\obj\Debug\a_weird_civilization.Updates.resources
